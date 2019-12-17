@@ -3,4 +3,14 @@
 welcome to github
 I'm new here
 editing in the existing file
+adding 1
+adding 2
+adding 3
+
+
+
+
+
+
+
 thank you
